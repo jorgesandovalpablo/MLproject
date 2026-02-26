@@ -18,6 +18,8 @@ dependencies = [
     "numpy",
     "seaborn",
     "scikit-learn",
+    "catboost",
+    "xgboost"
 ]
 
 [tool.setuptools]
